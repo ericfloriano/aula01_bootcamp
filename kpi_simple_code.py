@@ -1,4 +1,4 @@
-nome = input("Digire seu nome: ")
+nome = input("Digite seu nome: ")
 salario = float(input("Digite o valor do seu salário mensal: "))
 bonus_percentual = float(input("Digite a porcentagem do bônus: "))
 
